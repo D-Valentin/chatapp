@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-9@s^)g#eiz#)r7k^ycxd#lajp_trj(wm*3c(&79=!stzi#l$nw
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.100.4']
+ALLOWED_HOSTS = ['ourverse.herokuapp.com']
 
 LOGOUT_REDIRECT_URL = '/'
 LOGIN_REDIRECT_URL = '/rooms/'
